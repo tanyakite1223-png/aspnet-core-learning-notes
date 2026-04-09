@@ -30,6 +30,9 @@
 |------|----------|
 | [MVC 基礎概念與實作](ASPNETCoreMVC_MVC基礎_MVC架構概念.md) | 專案建立、MVC 架構概念（Controller / Model / View）、Routing |
 | [Program.cs 啟動流程](ASPNETCoreMVC_ProgramCs_啟動流程.md) | WebApplicationBuilder、WebApplication、啟動設定 |
+| [專案結構詳解](ASPNETCoreMVC_ProjectStructure_專案結構詳解.md) | 各資料夾與檔案的用途 |
+| [Action 方法與回傳型別](ASPNETCoreMVC_ActionResult_Action方法與回傳型別.md) | IActionResult、ViewResult |
+| [參數傳遞](ASPNETCoreMVC_ParameterPassing_參數傳遞.md) | Route 參數、Query String |
 
 > 這份 MVC 筆記是學習旅程的起點。上完這堂課後，判斷需要先回頭打好 C# 基礎，因此才產生了上方的 C# 系列筆記。
 
