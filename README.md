@@ -33,6 +33,7 @@
 | [專案結構詳解](ASPNETCoreMVC_ProjectStructure_專案結構詳解.md) | 各資料夾與檔案的用途 |
 | [Action 方法與回傳型別](ASPNETCoreMVC_ActionResult_Action方法與回傳型別.md) | IActionResult、ViewResult |
 | [參數傳遞](ASPNETCoreMVC_ParameterPassing_參數傳遞.md) | Route 參數、Query String |
+| [Routing 設定](ASPNETCoreMVC_Routing_路由設定.md) | 慣例路由、屬性路由（Attribute Routing） |
 
 > 這份 MVC 筆記是學習旅程的起點。上完這堂課後，判斷需要先回頭打好 C# 基礎，因此才產生了上方的 C# 系列筆記。
 
