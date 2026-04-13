@@ -35,6 +35,9 @@
 | [參數傳遞](ASPNETCoreMVC_ParameterPassing_參數傳遞.md) | Route 參數、Query String |
 | [Routing 設定](ASPNETCoreMVC_Routing_路由設定.md) | 慣例路由、屬性路由（Attribute Routing） |
 | [Razor 語法基礎](ASPNETCoreMVC_RazorBasics_Razor語法基礎.md) | @ 符號、@{ }、@if、@foreach、模式切換 |
+| [Layout 與版面配置](ASPNETCoreMVC_Layout_版面配置.md) | Layout 概念、_Layout.cshtml、_ViewStart.cshtml |
+| [Partial View（部分檢視）](ASPNETCoreMVC_PartialView_部分檢視.md) | 可重複使用的 HTML 區塊、Html.Partial、載入 Partial View |
+| [Tag Helpers（Tag 輔助器）](ASPNETCoreMVC_TagHelpers_Tag輔助器.md) | asp-controller、asp-action、Form Tag Helper、Input Tag Helper |
 
 > 這份 MVC 筆記是學習旅程的起點。上完這堂課後，判斷需要先回頭打好 C# 基礎，因此才產生了上方的 C# 系列筆記。
 
