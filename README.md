@@ -38,6 +38,11 @@
 | [Layout 與版面配置](ASPNETCoreMVC_Layout_版面配置.md) | Layout 概念、_Layout.cshtml、_ViewStart.cshtml |
 | [Partial View（部分檢視）](ASPNETCoreMVC_PartialView_部分檢視.md) | 可重複使用的 HTML 區塊、Html.Partial、載入 Partial View |
 | [Tag Helpers（Tag 輔助器）](ASPNETCoreMVC_TagHelpers_Tag輔助器.md) | asp-controller、asp-action、Form Tag Helper、Input Tag Helper |
+| [View Components（元件化概念）](ASPNETCoreMVC_ViewComponents_元件化概念.md) | View Component 結構、與 Partial View 的差異、使用時機 |
+| [Model 定義與 Data Annotation](ASPNETCoreMVC_ModelDefinitionAndDataAnnotation_Model定義與DataAnnotation.md) | Model 定義、驗證屬性（Required、StringLength 等） |
+| [Model Binding（模型繫結）](ASPNETCoreMVC_ModelBinding_模型繫結.md) | 表單資料如何對應到 Model、Binding 來源 |
+| [表單驗證 — Server-side Validation](ASPNETCoreMVC_ServerSideValidation_表單驗證.md) | ModelState.IsValid、驗證錯誤回傳 View |
+| [HTML / CSS 基礎](ASPNETCoreMVC_HTML_CSS_Basics_HTML_CSS基礎.md) | 隨表單實作穿插學習的 HTML / CSS 基礎概念 |
 
 > 這份 MVC 筆記是學習旅程的起點。上完這堂課後，判斷需要先回頭打好 C# 基礎，因此才產生了上方的 C# 系列筆記。
 
