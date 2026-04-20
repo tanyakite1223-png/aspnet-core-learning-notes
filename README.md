@@ -44,6 +44,8 @@
 | [表單驗證 — Server-side Validation](ASPNETCoreMVC_ServerSideValidation_表單驗證.md) | ModelState.IsValid、驗證錯誤回傳 View |
 | [HTML / CSS 基礎](ASPNETCoreMVC_HTML_CSS_Basics_HTML_CSS基礎.md) | 隨表單實作穿插學習的 HTML / CSS 基礎概念 |
 | [Middleware（中介軟體）](ASPNETCoreMVC_Middleware_中介軟體.md) | Middleware 概念、Request/Response Pipeline、內建 Middleware 與執行順序 |
+| [DI 概念](ASPNETCoreMVC_DIConcept_為什麼需要DI與IoC容器.md) | 為什麼需要 DI、IoC 容器 |
+| [服務註冊](ASPNETCoreMVC_ServiceRegistration_服務註冊.md) | Transient、Scoped、Singleton 差異與使用時機 |
 
 > 這份 MVC 筆記是學習旅程的起點。上完這堂課後，判斷需要先回頭打好 C# 基礎，因此才產生了上方的 C# 系列筆記。
 
