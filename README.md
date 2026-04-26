@@ -48,6 +48,7 @@
 | [服務註冊](ASPNETCoreMVC_ServiceRegistration_服務註冊.md) | Transient、Scoped、Singleton 差異與使用時機 |
 | [Constructor Injection（建構式注入）](ASPNETCoreMVC_ConstructorInjection_建構式注入.md) | 建構式注入實作、在 Controller 中使用 DI |
 | [DI（依賴注入）綜合運用](ASPNETCoreMVC_DI_依賴注入.md) | DI 完整應用、在 Controller 與 View 中使用 |
+| [appsettings.json 與環境設定檔](ASPNETCoreMVC_appsettings_組態設定.md) | appsettings.json、appsettings.Development.json、ASPNETCORE_ENVIRONMENT、環境設定檔 |
 
 > 這份 MVC 筆記是學習旅程的起點。上完這堂課後，判斷需要先回頭打好 C# 基礎，因此才產生了上方的 C# 系列筆記。
 
