@@ -107,3 +107,12 @@
 | Strongly Typed | Strongly /ˈstrɔːŋli/、Typed /taɪpt/ | 強型別的 | [appsettings](ASPNETCoreMVC_appsettings_組態設定.md) |
 | Connection String | Connection /kəˈnekʃən/、String /strɪŋ/ | 資料庫連線字串 | [appsettings](ASPNETCoreMVC_appsettings_組態設定.md) |
 | Log Level | Log /lɔːɡ/、Level /ˈlevl/ | 日誌等級 | [appsettings](ASPNETCoreMVC_appsettings_組態設定.md) |
+| Staging | /ˈsteɪdʒɪŋ/ | 預備環境 | [環境變數與 ASPNETCORE_ENVIRONMENT](ASPNETCoreMVC_Environment_環境變數與ASPNETCORE_ENVIRONMENT.md) |
+| launchSettings.json | launch /lɔːntʃ/、Settings /ˈsetɪŋz/ | ASP.NET Core 啟動設定檔 | [環境變數與 ASPNETCORE_ENVIRONMENT](ASPNETCoreMVC_Environment_環境變數與ASPNETCORE_ENVIRONMENT.md) |
+| IWebHostEnvironment | 縮寫念法：/aɪ web hoʊst ɪnˈvaɪrənmənt/ | Web 主機環境介面 | [環境變數與 ASPNETCORE_ENVIRONMENT](ASPNETCoreMVC_Environment_環境變數與ASPNETCORE_ENVIRONMENT.md) |
+| 完整英文：Interface Web Host Environment | 逐字音標：Interface /ˈɪntərfeɪs/、Web /web/、Host /hoʊst/、Environment /ɪnˈvaɪrənmənt/ | 同上 | 同上 |
+| Fallback Chain | Fallback /ˈfɔːlbæk/、Chain /tʃeɪn/ | 後備鏈、降級鏈 | [環境變數與 ASPNETCORE_ENVIRONMENT](ASPNETCoreMVC_Environment_環境變數與ASPNETCORE_ENVIRONMENT.md) |
+| Logging | /ˈlɔːɡɪŋ/ | 日誌 | [Logging](ASPNETCoreMVC_Logging_日誌.md) |
+| ILogger<T> | 縮寫念法：/aɪ ˈlɔːɡər/ | 泛型日誌介面 | [Logging](ASPNETCoreMVC_Logging_日誌.md) |
+| 完整英文：Interface Logger | 逐字音標：Interface /ˈɪntərfeɪs/、Logger /ˈlɔːɡər/ | 同上 | 同上 |
+| Console | /ˈkɑːnsoʊl/ | 主控台、主控台視窗 | [Logging](ASPNETCoreMVC_Logging_日誌.md) |
