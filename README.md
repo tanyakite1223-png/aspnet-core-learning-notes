@@ -57,6 +57,13 @@
 | [appsettings.json 與環境設定檔](ASPNETCoreMVC_appsettings_組態設定.md) | appsettings.json、appsettings.Development.json、ASPNETCORE_ENVIRONMENT、環境設定檔 |
 | [環境變數與 ASPNETCORE_ENVIRONMENT](ASPNETCoreMVC_Environment_環境變數與ASPNETCORE_ENVIRONMENT.md) | ASPNETCORE_ENVIRONMENT、環境檔覆寫機制、優先順序 |
 | [Logging（日誌）](ASPNETCoreMVC_Logging_日誌.md) | Log Level、ILogger<T>、日誌過濾門檻 |
+| [設定 Logging 輸出](ASPNETCoreMVC_LoggingOutput_設定Logging輸出.md) | Logging Provider 概念、內建 Provider、第三方套件（Serilog/NLog）介紹 |
+
+### 資料存取
+
+| 單元 | 內容概要 |
+|------|----------|
+| [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) | Table、Column、Row、Primary Key、Foreign Key、Normalization、NULL 觀念 |
 
 > 這份 MVC 筆記是學習旅程的起點。上完這堂課後，判斷需要先回頭打好 C# 基礎，因此才產生了上方的 C# 系列筆記。
 
@@ -64,7 +71,7 @@
 
 - ✅ C# 基本語法
 - ✅ OOP（物件導向）— 封裝、屬性、繼承、多型、抽象類別、介面、靜態
-- ⬜ ASP.NET Core MVC（進行中）
+- ✅ ASP.NET Core MVC（基礎完成）
 - ⬜ 資料存取（SQL、EF Core、LINQ）
 - ⬜ Web API
 - ⬜ 認證與授權

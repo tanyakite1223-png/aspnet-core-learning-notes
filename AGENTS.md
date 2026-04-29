@@ -55,7 +55,7 @@
 ## 注意事項
 
 - commit message 用中文
-- commit 結尾加上 `Co-Authored-By: Codex Opus 4.6 <noreply@anthropic.com>`
 - `CSharp_學習路線圖.md` 已在 .gitignore，不要上傳
 - README.md 的學習進度段落用 ✅ / ⬜ 標記，有新階段完成時更新
 - 新增筆記時同步更新 `Glossary_技術字彙表.md`
+��筆記時同步更新 `Glossary_技術字彙表.md`

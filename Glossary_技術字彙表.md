@@ -116,3 +116,20 @@
 | ILogger<T> | 縮寫念法：/aɪ ˈlɔːɡər/ | 泛型日誌介面 | [Logging](ASPNETCoreMVC_Logging_日誌.md) |
 | 完整英文：Interface Logger | 逐字音標：Interface /ˈɪntərfeɪs/、Logger /ˈlɔːɡər/ | 同上 | 同上 |
 | Console | /ˈkɑːnsoʊl/ | 主控台、主控台視窗 | [Logging](ASPNETCoreMVC_Logging_日誌.md) |
+| Logging Provider | Logging /ˈlɔːɡɪŋ/、Provider /ˈproʊvaɪdər/ | 日誌提供者（輸出目的地） | [設定 Logging 輸出](ASPNETCoreMVC_LoggingOutput_設定Logging輸出.md) |
+| Provider | /ˈproʊvaɪdər/ | 提供者、實作供應商 | [設定 Logging 輸出](ASPNETCoreMVC_LoggingOutput_設定Logging輸出.md) |
+| Serilog | /ˈserilɔːɡ/ | 第三方日誌套件（業界主流） | [設定 Logging 輸出](ASPNETCoreMVC_LoggingOutput_設定Logging輸出.md) |
+| NLog | /ˈen lɔːɡ/ | 第三方日誌套件（老牌） | [設定 Logging 輸出](ASPNETCoreMVC_LoggingOutput_設定Logging輸出.md) |
+| RDBMS | 縮寫念法：/ˌɑːr diː biː em ˈes/ | 關聯式資料庫管理系統 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
+| 完整英文：Relational Database Management System | 逐字音標：Relational /rɪˈleɪʃənl/、Database /ˈdeɪtəbeɪs/、Management /ˈmænɪdʒmənt/、System /ˈsɪstəm/ | 同上 | 同上 |
+| Table | /ˈteɪbl/ | 資料表 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
+| Column | /ˈkɑːləm/ | 欄位 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
+| Row | /roʊ/ | 資料列、記錄 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
+| Primary Key | Primary /ˈpraɪmeri/、Key /kiː/ | 主鍵、主碼 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
+| PK | 縮寫念法：/ˌpiː ˈkeɪ/ | 主鍵縮寫 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
+| 完整英文：Primary Key | 逐字音標：Primary /ˈpraɪmeri/、Key /kiː/ | 同上 | 同上 |
+| Foreign Key | Foreign /ˈfɔːrən/、Key /kiː/ | 外鍵、外部碼 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
+| FK | 縮寫念法：/ˌef ˈkeɪ/ | 外鍵縮寫 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
+| 完整英文：Foreign Key | 逐字音標：Foreign /ˈfɔːrən/、Key /kiː/ | 同上 | 同上 |
+| Normalization | /ˌnɔːrmələˈzeɪʃən/ | 正規化 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
+| NULL | /nʌl/ | 空值、無值 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
