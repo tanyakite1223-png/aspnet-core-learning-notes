@@ -133,3 +133,14 @@
 | 完整英文：Foreign Key | 逐字音標：Foreign /ˈfɔːrən/、Key /kiː/ | 同上 | 同上 |
 | Normalization | /ˌnɔːrmələˈzeɪʃən/ | 正規化 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
 | NULL | /nʌl/ | 空值、無值 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) |
+| JOIN | /dʒɔɪn/ | 連結、合併查詢 | [JOIN (INNER JOIN)](DataAccess_InnerJoin_JOIN查詢.md) |
+| INNER JOIN | INNER /ˈɪnər/、JOIN /dʒɔɪn/ | 內部連結 | [JOIN (INNER JOIN)](DataAccess_InnerJoin_JOIN查詢.md) |
+| CRUD | 縮寫念法：/ˌsiː ɑːr juː ˈdiː/ | 基本資料操作 (增查改刪) | [INSERT / UPDATE / DELETE](DataAccess_InsertUpdateDelete_新增修改刪除.md) |
+| 完整英文：Create, Read, Update, Delete | 逐字音標：Create /kriˈeɪt/、Read /riːd/、Update /ˌʌpˈdeɪt/、Delete /dɪˈliːt/ | 同上 | 同上 |
+| DML | 縮寫念法：/ˌdiː em ˈel/ | 資料操作語言 | [INSERT / UPDATE / DELETE](DataAccess_InsertUpdateDelete_新增修改刪除.md) |
+| 完整英文：Data Manipulation Language | 逐字音標：Data /ˈdeɪtə/、Manipulation /məˌnɪpjuˈleɪʃən/、Language /ˈlæŋɡwɪdʒ/ | 同上 | 同上 |
+| IDENTITY | /aɪˈdentɪti/ | 自動編號、識別值 | [INSERT / UPDATE / DELETE](DataAccess_InsertUpdateDelete_新增修改刪除.md) |
+| Soft Delete | Soft /sɔːft/、Delete /dɪˈliːt/ | 軟刪除 (標記刪除) | [INSERT / UPDATE / DELETE](DataAccess_InsertUpdateDelete_新增修改刪除.md) |
+| Hard Delete | Hard /hɑːrd/、Delete /dɪˈliːt/ | 硬刪除 (真實刪除) | [INSERT / UPDATE / DELETE](DataAccess_InsertUpdateDelete_新增修改刪除.md) |
+| Unicode | /ˈjuːnɪkoʊd/ | 萬國碼 | [JOIN (INNER JOIN)](DataAccess_InnerJoin_JOIN查詢.md) |
+| N 字首 (N Prefix) | N /en/、Prefix /ˈpriːfɪks/ | Unicode 字串前綴 | [JOIN (INNER JOIN)](DataAccess_InnerJoin_JOIN查詢.md) |

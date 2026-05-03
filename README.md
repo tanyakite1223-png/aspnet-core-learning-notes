@@ -64,6 +64,9 @@
 | 單元 | 內容概要 |
 |------|----------|
 | [RDBMS 基礎觀念](DataAccess_RDBMS_RDBMS基礎觀念.md) | Table、Column、Row、Primary Key、Foreign Key、Normalization、NULL 觀念 |
+| [資料關聯 — 一對多關聯](DataAccess_OneToMany_資料關聯.md) | 一對多設計原則、FK 放置位置、命名慣例、SQL 實作 |
+| [INSERT / UPDATE / DELETE](DataAccess_InsertUpdateDelete_新增修改刪除.md) | 新增修改刪除語法、CRUD 概念、IDENTITY 特性、軟刪除 vs 硬刪除 |
+| [JOIN (INNER JOIN)](DataAccess_InnerJoin_JOIN查詢.md) | 隱式 JOIN vs 顯式 JOIN、INNER JOIN 語法、ON vs WHERE、多表查詢練習 |
 
 > 這份 MVC 筆記是學習旅程的起點。上完這堂課後，判斷需要先回頭打好 C# 基礎，因此才產生了上方的 C# 系列筆記。
 
