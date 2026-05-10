@@ -144,3 +144,33 @@
 | Hard Delete | Hard /hɑːrd/、Delete /dɪˈliːt/ | 硬刪除 (真實刪除) | [INSERT / UPDATE / DELETE](DataAccess_InsertUpdateDelete_新增修改刪除.md) |
 | Unicode | /ˈjuːnɪkoʊd/ | 萬國碼 | [JOIN (INNER JOIN)](DataAccess_InnerJoin_JOIN查詢.md) |
 | N 字首 (N Prefix) | N /en/、Prefix /ˈpriːfɪks/ | Unicode 字串前綴 | [JOIN (INNER JOIN)](DataAccess_InnerJoin_JOIN查詢.md) |
+| CLI | 縮寫念法：/ˌsiː el ˈaɪ/ | 命令列介面 | [終端機與 CLI 入門](DataAccess_Terminal_終端機與CLI入門.md) |
+| 完整英文：Command Line Interface | 逐字音標：Command /kəˈmænd/、Line /laɪn/、Interface /ˈɪntərfeɪs/ | 同上 | 同上 |
+| Shell | /ʃel/ | 殼層、指令解釋器 | [終端機與 CLI 入門](DataAccess_Terminal_終端機與CLI入門.md) |
+| Terminal | /ˈtɝːmɪnl/ | 終端機 | [終端機與 CLI 入門](DataAccess_Terminal_終端機與CLI入門.md) |
+| PowerShell | /ˈpaʊərʃel/ | 微軟開發的任務自動化與組態管理架構 | [終端機與 CLI 入門](DataAccess_Terminal_終端機與CLI入門.md) |
+| ORM | 縮寫念法：/ˌoʊ ɑːr ˈem/ | 物件關聯對應 | [EF Core 概念](DataAccess_EFCore概念_ORM與DbContext.md) |
+| 完整英文：Object-Relational Mapping | 逐字音標：Object /ˈɑːbdʒekt/、Relational /rɪˈleɪʃənl/、Mapping /ˈmæpɪŋ/ | 同上 | 同上 |
+| EF Core | 縮寫念法：/ˌiː ef ˈkɔːr/ | Entity Framework Core (ORM 工具) | [EF Core 概念](DataAccess_EFCore概念_ORM與DbContext.md) |
+| 完整英文：Entity Framework Core | 逐字音標：Entity /ˈentəti/、Framework /ˈfreɪmwɝːk/、Core /kɔːr/ | 同上 | 同上 |
+| DbContext | DB /ˌdiː ˈbiː/、Context /ˈkɑːntekst/ | 資料庫上下文 (EF Core 核心類別) | [EF Core 概念](DataAccess_EFCore概念_ORM與DbContext.md) |
+| DbSet | DB /ˌdiː ˈbiː/、Set /set/ | 代表資料庫中的一張表 | [EF Core 概念](DataAccess_EFCore概念_ORM與DbContext.md) |
+| Connection String | Connection /kəˈnekʃən/、String /strɪŋ/ | 連線字串 | [連線設定](DataAccess_ConnectionString_連線設定.md) |
+| Migration | /maɪˈɡreɪʃən/ | 資料庫遷移、版本同步 | [Migration](DataAccess_Migration_資料庫遷移.md) |
+| Snapshot | /ˈsnæpʃɑːt/ | 快照、原始狀態備份 | [變更追蹤](DataAccess_ChangeTracking_變更追蹤.md) |
+| Change Tracking | Change /tʃeɪndʒ/、Tracking /ˈtrækɪŋ/ | 變更追蹤 | [變更追蹤](DataAccess_ChangeTracking_變更追蹤.md) |
+| AsNoTracking | As /æz/、No /noʊ/、Tracking /ˈtrækɪŋ/ | 不追蹤查詢 (效能優化用) | [變更追蹤](DataAccess_ChangeTracking_變更追蹤.md) |
+| LINQ | /lɪŋk/ | 語言整合查詢 | [LINQ 基礎語法](DataAccess_LINQBasics_LINQ基礎語法.md) |
+| 完整英文：Language Integrated Query | 逐字音標：Language /ˈlæŋɡwɪdʒ/、Integrated /ˈɪntəɡreɪtɪd/、Query /ˈkwɪri/ | 同上 | 同上 |
+| Lambda Expression | Lambda /ˈlæmdə/、Expression /ɪkˈspreʃən/ | Lambda 運算式 | [LINQ 基礎語法](DataAccess_LINQBasics_LINQ基礎語法.md) |
+| IQueryable | 縮寫念法：/aɪ ˈkwɪriəbl/ | 可查詢介面 (資料庫端執行) | [LINQ 與 EF Core](DataAccess_LINQWithEFCore_LINQ與EFCore的結合使用.md) |
+| 完整英文：Interface Queryable | 逐字音標：Interface /ˈɪntərfeɪs/、Queryable /ˈkwɪriəbl/ | 同上 | 同上 |
+| IEnumerable | 縮寫念法：/aɪ iːˌnuːməˈreɪbl/ | 可列舉介面 (記憶體端執行) | [LINQ 與 EF Core](DataAccess_LINQWithEFCore_LINQ與EFCore的結合使用.md) |
+| 完整英文：Interface Enumerable | 逐字音標：Interface /ˈɪntərfeɪs/、Enumerable /iːˈnuːməreɪbl/ | 同上 | 同上 |
+| Deferred Execution | Deferred /dɪˈfɝːd/、Execution /ˌeksɪˈkjuːʃən/ | 延遲執行 | [LINQ 與 EF Core](DataAccess_LINQWithEFCore_LINQ與EFCore的結合使用.md) |
+| PAT | 縮寫念法：/piː eɪ tiː/ | 個人存取權杖 | [建立專案與 git 初始化](DataAccess_ProjectInit_建立專案與git初始化.md) |
+| 完整英文：Personal Access Token | 逐字音標：Personal /ˈpɝːsənl/、Access /ˈækses/、Token /ˈtoʊkən/ | 同上 | 同上 |
+| SSH | 縮寫念法：/ˌes es ˈheɪtʃ/ | 安全殼層協定 | [建立專案與 git 初始化](DataAccess_ProjectInit_建立專案與git初始化.md) |
+| 完整英文：Secure Shell | 逐字音標：Secure /sɪˈkjʊr/、Shell /ʃel/ | 同上 | 同上 |
+| Subquery | /ˈsʌbkwiːri/ | 子查詢 | [子查詢](DataAccess_Subquery_子查詢.md) |
+| Aggregate Function | Aggregate /ˈæɡrɪɡət/、Function /ˈfʌŋkʃən/ | 聚合函數 | [GroupBy 聚合函數](DataAccess_GroupBy_GroupBy聚合函數.md) |

@@ -67,6 +67,18 @@
 | [資料關聯 — 一對多關聯](DataAccess_OneToMany_資料關聯.md) | 一對多設計原則、FK 放置位置、命名慣例、SQL 實作 |
 | [INSERT / UPDATE / DELETE](DataAccess_InsertUpdateDelete_新增修改刪除.md) | 新增修改刪除語法、CRUD 概念、IDENTITY 特性、軟刪除 vs 硬刪除 |
 | [JOIN (INNER JOIN)](DataAccess_InnerJoin_JOIN查詢.md) | 隱式 JOIN vs 顯式 JOIN、INNER JOIN 語法、ON vs WHERE、多表查詢練習 |
+| [終端機與 CLI 入門](DataAccess_Terminal_終端機與CLI入門.md) | Windows Terminal、PowerShell 指令、Claude Code CLI 簡介 |
+| [建立專案與 git 初始化](DataAccess_ProjectInit_建立專案與git初始化.md) | 報銷系統設計、git 心智模型、.gitignore、HTTPS 與 SSH 認證 |
+| [EF Core 概念 — ORM 與 DbContext](DataAccess_EFCore概念_ORM與DbContext.md) | ORM 概念、EF Core 安裝、DbContext 與 DbSet、Model 定義 |
+| [連線設定 — Connection String](DataAccess_ConnectionString_連線設定.md) | appsettings.json 設定、Program.cs 註冊 DbContext |
+| [Migration — 資料庫遷移](DataAccess_Migration_資料庫遷移.md) | Code First 流程、add-migration、database-update、__EFMigrationsHistory |
+| [Scaffold-DbContext — 反向工程](DataAccess_ScaffoldDbContext_反向工程.md) | Database First 流程、Scaffold 指令參數、導覽屬性概念 |
+| [LINQ 基礎語法 — Where、Select、OrderBy](DataAccess_LINQBasics_LINQ基礎語法.md) | Lambda 運算式、Where/Select/OrderBy 語法、常用輔助方法 |
+| [LINQ Join 與 GroupBy](DataAccess_LINQJoinGroupBy_LINQ_Join與GroupBy.md) | LINQ GroupBy 分組統計、Join 關聯查詢、匿名型別 |
+| [LINQ 與 EF Core 的結合使用](DataAccess_LINQWithEFCore_LINQ與EFCore的結合使用.md) | IQueryable vs IEnumerable、延遲執行、SQL 翻譯對照 |
+| [變更追蹤 (Change Tracking)](DataAccess_ChangeTracking_變更追蹤.md) | EntityState 狀態、Snapshot 比對、AsNoTracking 效能優化 |
+| [GroupBy 聚合函數](DataAccess_GroupBy_GroupBy聚合函數.md) | COUNT、SUM、GROUP BY 語法、HAVING 過濾 |
+| [子查詢 (Subquery)](DataAccess_Subquery_子查詢.md) | 子查詢概念、= vs IN、NOT IN、SQL 執行順序 |
 
 > 這份 MVC 筆記是學習旅程的起點。上完這堂課後，判斷需要先回頭打好 C# 基礎，因此才產生了上方的 C# 系列筆記。
 
@@ -75,7 +87,7 @@
 - ✅ C# 基本語法
 - ✅ OOP（物件導向）— 封裝、屬性、繼承、多型、抽象類別、介面、靜態
 - ✅ ASP.NET Core MVC（基礎完成）
-- ⬜ 資料存取（SQL、EF Core、LINQ）
+- ✅ 資料存取（SQL、EF Core、LINQ）
 - ⬜ Web API
 - ⬜ 認證與授權
 - ⬜ 部署
