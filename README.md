@@ -79,6 +79,18 @@
 | [變更追蹤 (Change Tracking)](DataAccess_ChangeTracking_變更追蹤.md) | EntityState 狀態、Snapshot 比對、AsNoTracking 效能優化 |
 | [GroupBy 聚合函數](DataAccess_GroupBy_GroupBy聚合函數.md) | COUNT、SUM、GROUP BY 語法、HAVING 過濾 |
 | [子查詢 (Subquery)](DataAccess_Subquery_子查詢.md) | 子查詢概念、= vs IN、NOT IN、SQL 執行順序 |
+| [CRUD 實作](DataAccess_CRUD_CRUD實作.md) | 整合 MVC + EF Core、PRG 模式、View 對應規則、Tag Helpers 應用 |
+
+### Web API
+
+| 單元 | 內容概要 |
+|------|----------|
+| [Web API 與 MVC 的差異](WebAPI_WebAPIvsMVC_WebAPI與MVC的差異.md) | JSON 格式介紹、回傳內容差異、適用情境比較 |
+| [RESTful 設計原則](WebAPI_RESTful_RESTful設計原則.md) | HTTP Method 對應 CRUD、HTTP 狀態碼、async/await 規則 |
+| [ApiController 與路由屬性](WebAPI_ApiController_ApiController與路由屬性.md) | ControllerBase、[ApiController] 行為、屬性路由（Attribute Routing） |
+| [回傳格式 — JSON、IActionResult](WebAPI_ReturnFormats_回傳格式.md) | ActionResult<T>、序列化與反序列化、ProducesResponseType |
+| [CORS（跨來源資源共用）](WebAPI_CORS_跨來源資源共用.md) | 同源政策（Same-Origin Policy）、CORS 設定、安全考量 |
+| [Swagger / OpenAPI (API 文件產生)](WebAPI_Swagger_OpenAPI_API文件產生.md) | OpenAPI 標準、Scalar UI、自動推斷與手動標註狀態碼 |
 
 > 這份 MVC 筆記是學習旅程的起點。上完這堂課後，判斷需要先回頭打好 C# 基礎，因此才產生了上方的 C# 系列筆記。
 
@@ -88,6 +100,6 @@
 - ✅ OOP（物件導向）— 封裝、屬性、繼承、多型、抽象類別、介面、靜態
 - ✅ ASP.NET Core MVC（基礎完成）
 - ✅ 資料存取（SQL、EF Core、LINQ）
-- ⬜ Web API
+- ✅ Web API
 - ⬜ 認證與授權
 - ⬜ 部署

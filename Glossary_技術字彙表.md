@@ -174,3 +174,17 @@
 | 完整英文：Secure Shell | 逐字音標：Secure /sɪˈkjʊr/、Shell /ʃel/ | 同上 | 同上 |
 | Subquery | /ˈsʌbkwiːri/ | 子查詢 | [子查詢](DataAccess_Subquery_子查詢.md) |
 | Aggregate Function | Aggregate /ˈæɡrɪɡət/、Function /ˈfʌŋkʃən/ | 聚合函數 | [GroupBy 聚合函數](DataAccess_GroupBy_GroupBy聚合函數.md) |
+| PRG | 縮寫念法：/piː ɑːr ˈdʒiː/ | POST-重導向-GET 模式 | [CRUD 實作](DataAccess_CRUD_CRUD實作.md) |
+| 完整英文：Post-Redirect-Get | 逐字音標：Post /poʊst/、Redirect /ˌriːdəˈrekt/、Get /ɡet/ | 同上 | 同上 |
+| Web API | Web /web/、API /ˌeɪ piː ˈaɪ/ | 網路應用程式介面 | [Web API 與 MVC 的差異](WebAPI_WebAPIvsMVC_WebAPI與MVC的差異.md) |
+| RESTful (REST) | /'restful/ | 表述性狀態轉移（Web 服務設計風格） | [RESTful 設計原則](WebAPI_RESTful_RESTful設計原則.md) |
+| 完整英文：Representational State Transfer | 逐字音標：Representational /ˌreprɪzenˈteɪʃənl/、State /steɪt/、Transfer /ˈtrænsfɝː/ | 同上 | 同上 |
+| CORS | 縮寫念法：/kɔːrs/ | 跨來源資源共用 | [CORS](WebAPI_CORS_跨來源資源共用.md) |
+| 完整英文：Cross-Origin Resource Sharing | 逐字音標：Cross /krɔːs/、Origin /ˈɔːrɪdʒɪn/、Resource /ˈriːsɔːrs/、Sharing /ˈʃerɪŋ/ | 同上 | 同上 |
+| OpenAPI | Open /ˈoʊpən/、API /ˌeɪ piː ˈaɪ/ | 描述 REST API 的標準規範 | [Swagger / OpenAPI](WebAPI_Swagger_OpenAPI_API文件產生.md) |
+| Swagger | /ˈswæɡər/ | API 開發工具（常用於產生文件） | [Swagger / OpenAPI](WebAPI_Swagger_OpenAPI_API文件產生.md) |
+| Scalar | /ˈskeɪlər/ | 視覺化 API 文件介面工具 | [Swagger / OpenAPI](WebAPI_Swagger_OpenAPI_API文件產生.md) |
+| ControllerBase | Controller /kənˈtroʊlər/、Base /beɪs/ | Web API 控制器基底類別 | [ApiController 與路由屬性](WebAPI_ApiController_ApiController與路由屬性.md) |
+| Serialization | /ˌsɪriələˈzeɪʃən/ | 序列化（物件轉字串） | [回傳格式](WebAPI_ReturnFormats_回傳格式.md) |
+| Deserialization | /diːˌsɪriələˈzeɪʃən/ | 反序列化（字串轉物件） | [回傳格式](WebAPI_ReturnFormats_回傳格式.md) |
+| Schema | /ˈskiːmə/ | 綱要、結構定義 | [回傳格式](WebAPI_ReturnFormats_回傳格式.md) |
