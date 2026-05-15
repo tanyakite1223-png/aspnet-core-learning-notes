@@ -188,3 +188,15 @@
 | Serialization | /ˌsɪriələˈzeɪʃən/ | 序列化（物件轉字串） | [回傳格式](WebAPI_ReturnFormats_回傳格式.md) |
 | Deserialization | /diːˌsɪriələˈzeɪʃən/ | 反序列化（字串轉物件） | [回傳格式](WebAPI_ReturnFormats_回傳格式.md) |
 | Schema | /ˈskiːmə/ | 綱要、結構定義 | [回傳格式](WebAPI_ReturnFormats_回傳格式.md) |
+| Authentication | /ɔːˌθentɪˈkeɪʃən/ | 認證 (確認你是誰) | [認證與授權概念](Auth_AuthenticationVsAuthorization_認證與授權概念.md) |
+| Authorization | /ˌɔːθərəˈzeɪʃən/ | 授權 (確認你能做什麼) | [認證與授權概念](Auth_AuthenticationVsAuthorization_認證與授權概念.md) |
+| Stateless | /ˈsteɪtləs/ | 無狀態 | [認證與授權概念](Auth_AuthenticationVsAuthorization_認證與授權概念.md) |
+| Claim | /kleɪm/ | 聲明、身分資訊欄位 | [Cookie 驗證](Auth_CookieAuthentication_Cookie驗證.md) |
+| ClaimsIdentity | Claims /kleɪmz/、Identity /aɪˈdentɪti/ | 身分 (一組聲明的集合) | [Cookie 驗證](Auth_CookieAuthentication_Cookie驗證.md) |
+| ClaimsPrincipal | Claims /kleɪmz/、Principal /ˈprɪnsəpl/ | 當事人 (持有一個或多個身分的人) | [Cookie 驗證](Auth_CookieAuthentication_Cookie驗證.md) |
+| JWT | 縮寫念法：/ˌdʒeɪ dabeljuː ˈtiː/ | JSON Web Token | [JWT 驗證概念](Auth_JWTToken_JWT驗證概念.md) |
+| 完整英文：JSON Web Token | 逐字音標：JSON /ˈdʒeɪsən/、Web /web/、Token /ˈtoʊkən/ | 同上 | 同上 |
+| Header | /ˈhedər/ | 標頭 (JWT 第一段，存放演算法資訊) | [JWT 驗證概念](Auth_JWTToken_JWT驗證概念.md) |
+| Payload | /ˈpeɪloʊd/ | 內容 (JWT 第二段，存放使用者聲明) | [JWT 驗證概念](Auth_JWTToken_JWT驗證概念.md) |
+| Signature | /ˈsɪɡnətʃər/ | 簽名 (JWT 第三段，防偽驗證) | [JWT 驗證概念](Auth_JWTToken_JWT驗證概念.md) |
+| Bearer | /ˈberər/ | 持有人 (Token 傳遞時的固定字首) | [JWT 驗證概念](Auth_JWTToken_JWT驗證概念.md) |
