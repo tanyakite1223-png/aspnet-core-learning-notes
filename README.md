@@ -99,6 +99,20 @@
 | [Authentication vs Authorization 概念](Auth_AuthenticationVsAuthorization_認證與授權概念.md) | 認證（是誰）與授權（能做什麼）的差異、HTTP 無狀態與 Cookie |
 | [Cookie-based 驗證](Auth_CookieAuthentication_Cookie驗證.md) | Claim/Identity/Principal 三層結構、SignInAsync、[Authorize] 屬性 |
 | [JWT Token 驗證 (概念了解)](Auth_JWTToken_JWT驗證概念.md) | JWT 三段結構 (Header/Payload/Signature)、密鑰安全性、Bearer Token |
+| [[Authorize] 與 [AllowAnonymous]](Auth_Authorize_授權屬性.md) | 授權屬性、預設行為、例外開放、設計原則 |
+| [角色授權 (RBAC)](Auth_RBAC_角色授權.md) | Role Claim 登入分流、IsInRole、401 vs 403 差異 |
+
+### 部署
+
+| 單元 | 內容概要 |
+|------|----------|
+| [部署 (Deployment)](Deploy_Deployment_部署.md) | dotnet publish、Kestrel vs IIS、Reverse Proxy、Hosting Bundle、CI/CD 概念 |
+
+### 工具
+
+| 單元 | 內容概要 |
+|------|----------|
+| [Git 版本控制](Git_VersionControl_Git版本控制.md) | Branch 分支概念、HEAD 與 origin、Merge (Fast-forward) 流程 |
 
 > 這份 MVC 筆記是學習旅程的起點。上完這堂課後，判斷需要先回頭打好 C# 基礎，因此才產生了上方的 C# 系列筆記。
 
@@ -110,4 +124,4 @@
 - ✅ 資料存取（SQL、EF Core、LINQ）
 - ✅ Web API
 - ✅ 認證與授權
-- ⬜ 部署
+- ✅ 部署

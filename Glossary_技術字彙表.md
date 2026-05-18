@@ -200,3 +200,20 @@
 | Payload | /ˈpeɪloʊd/ | 內容 (JWT 第二段，存放使用者聲明) | [JWT 驗證概念](Auth_JWTToken_JWT驗證概念.md) |
 | Signature | /ˈsɪɡnətʃər/ | 簽名 (JWT 第三段，防偽驗證) | [JWT 驗證概念](Auth_JWTToken_JWT驗證概念.md) |
 | Bearer | /ˈberər/ | 持有人 (Token 傳遞時的固定字首) | [JWT 驗證概念](Auth_JWTToken_JWT驗證概念.md) |
+| Authorize | /ˈɔːθəraɪz/ | 授權 (通常指 [Authorize] 屬性) | [[Authorize] 與 [AllowAnonymous]](Auth_Authorize_授權屬性.md) |
+| AllowAnonymous | /əˈlaʊ əˈnɑːnɪməs/ | 允許匿名存取 | [[Authorize] 與 [AllowAnonymous]](Auth_Authorize_授權屬性.md) |
+| RBAC | 縮寫念法：/ˌɑːr biː eɪ ˈsiː/ | 角色型存取控制 | [角色授權 (RBAC)](Auth_RBAC_角色授權.md) |
+| 完整英文：Role-Based Access Control | 逐字音標：Role /roʊl/、Based /beɪst/、Access /ˈækses/、Control /kənˈtroʊl/ | 同上 | 同上 |
+| 401 Unauthorized | /ˌʌnˈɔːθəraɪzd/ | 未經授權 (身份未確認) | [角色授權 (RBAC)](Auth_RBAC_角色授權.md) |
+| 403 Forbidden | /fərˈbɪdn/ | 禁止存取 (權限不足) | [角色授權 (RBAC)](Auth_RBAC_角色授權.md) |
+| Deployment | /dɪˈplɔɪmənt/ | 部署 | [部署 (Deployment)](Deploy_Deployment_部署.md) |
+| Kestrel | /ˈkestrəl/ | ASP.NET Core 內建的網頁伺服器 | [部署 (Deployment)](Deploy_Deployment_部署.md) |
+| Reverse Proxy | Reverse /rɪˈvɝːs/、Proxy /ˈprɑːksi/ | 反向代理 | [部署 (Deployment)](Deploy_Deployment_部署.md) |
+| Hosting Bundle | Hosting /ˈhoʊstɪŋ/、Bundle /ˈbʌndl/ | 裝載套件 | [部署 (Deployment)](Deploy_Deployment_部署.md) |
+| CI/CD | 縮寫念法：/ˌsiː ˈaɪ ˌsiː ˈdiː/ | 持續整合與持續部署 | [部署 (Deployment)](Deploy_Deployment_部署.md) |
+| 完整英文：Continuous Integration / Continuous Deployment | 逐字音標：Continuous /kənˈtɪnjuəs/、Integration /ˌɪntɪˈɡreɪʃən/、Deployment /dɪˈplɔɪmənt/ | 同上 | 同上 |
+| Branch | /bræntʃ/ | 分支 | [Git 版本控制](Git_VersionControl_Git版本控制.md) |
+| Merge | /mɝːdʒ/ | 合併 | [Git 版本控制](Git_VersionControl_Git版本控制.md) |
+| Fast-forward | Fast /fæst/、Forward /ˈfɔːrwərd/ | 快進 (合併模式) | [Git 版本控制](Git_VersionControl_Git版本控制.md) |
+| HEAD | /hed/ | 目前所在的 commit 或分支指標 | [Git 版本控制](Git_VersionControl_Git版本控制.md) |
+| origin | /ˈɔːrɪdʒɪn/ | 預設的遠端倉庫名稱 | [Git 版本控制](Git_VersionControl_Git版本控制.md) |
